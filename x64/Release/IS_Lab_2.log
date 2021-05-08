@@ -1,0 +1,8 @@
+﻿  GeneticAlg.cpp
+C:\dev\IS_Lab_2\src\GeneticAlg.cpp(70,37): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\dev\IS_Lab_2\src\GeneticAlg.cpp(79,21): warning C4244: инициализация: преобразование "float" в "size_t", возможна потеря данных
+  Создание кода
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 131 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  IS_Lab_2.vcxproj -> C:\dev\IS_Lab_2\x64\Release\IS_Lab_2.exe
